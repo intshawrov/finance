@@ -1,2 +1,2 @@
 # finance
-It is a business Website
+A responsive business website build with php
